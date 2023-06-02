@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @craft-o-s-project
-- 👀 I'm working on a project that runs minecraft clients called craft-o's
+- 👀 I'm working on a project that let you chat to people on a s\chat server with a bookmarklet.
 - 📫 goto pizzaplayz128@gmail.com to chat with me!
 
 <!---
